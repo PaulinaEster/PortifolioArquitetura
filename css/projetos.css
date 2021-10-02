@@ -69,6 +69,6 @@
         padding-bottom: 40px;
     }
     .section1 .container-xl .row .carousel .carousel-inner .carousel-item .coluna img{
-        min-width: 700px;
+        width: 100%;
     }
   }
